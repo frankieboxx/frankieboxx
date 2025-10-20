@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi there! Welcome to my playful corner of GitHub!
 
-<!--
-**frankieboxx/frankieboxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm the manager of the Centre of Advanced Academic Studies in Dubrovnik, where curiosity and creativity set sail every day.  
+When I'm not steering the academic ship, you’ll find me coding with:
 
-Here are some ideas to get you started:
+- 🟦 **SQL**
+- 🟩 **C#**
+- 🟨 **JavaScript**
+- 🟦 **TypeScript**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🤖 Favorite Co-pilots
+
+- GitHub Copilot (my coding first mate)
+- Google AI Studio (my compass in the sea of AI)
+
+## 🛥️ Hobbies
+
+- Boats! (The real kind – though I do appreciate a good Docker container)
+
+## 🔒 About My Projects
+
+Most of my work is private, so you won’t find many public repos here.  
+Think of me as a code ninja: skills are visible, projects are stealthy!
+
+## 🚫 Social Media
+
+I don’t use social networks.  
+I prefer waves and code to likes and follows.
+
+---
+
+**Preferred style: Playful, always!**  
+If you want to chat about boats, code, or AI, drop an anchor (issue or PR)!
