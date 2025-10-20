@@ -25,7 +25,7 @@ Think of me as a code ninja: skills are visible, projects are stealthy!
 ## 🚫 Social Media
 
 I don’t use social networks.  
-I prefer waves and code to likes and follows.
+I prefer sun, waves, winds, and code to likes and follows.
 
 ---
 
