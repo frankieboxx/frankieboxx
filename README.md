@@ -12,6 +12,7 @@ When I'm not steering the academic ship, you’ll find me coding with:
 
 - GitHub Copilot (my coding first mate)
 - Google AI Studio (my compass in the sea of AI)
+- AWS (my real estate in the cloud)
 
 ## 🛥️ Hobbies
 
